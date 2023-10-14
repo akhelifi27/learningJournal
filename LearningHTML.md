@@ -21,7 +21,20 @@ for the icon on the header:
             rel= icon   href=nameoftheimage.png  type="image/x-icon"
 hr= horizontal rule = horizontal lines
 
+
 in the body paragraph:
+
 to emphasize a word: use em/  or strong
 br for another line: 
     &nbsp for more space 
+
+    copy rights in the bottom of the page:
+      &lt;&lt;&lt; &copy; Adem Khelifi &gt;&gt;&gt;
+ Adem is <abbr title="Best Student Ever">BSE</abbr></BR> Abbreviation
+
+ to add an address ( it will seem like an address):
+  use address tab
+
+  Lists:
+      li tab 
+ 
