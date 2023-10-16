@@ -35,6 +35,7 @@ br for another line:
  to add an address ( it will seem like an address):
   use address tab
 
+ 
   Lists:
    Type of Lists: 
       ordered lists:
@@ -55,7 +56,26 @@ br for another line:
       dt tab - the item
       dd    the description of that item
 
-Hyper texts:
+working with links: 
+
     title  : A title of the Link
-    anker    a tab href: the link.     >the abbreviation<
+    anker    a tab href: the link.     >the abbreviation or any sentence to click on<
+
+    changing the color of the links:
+          we can do them in the css file. 
+          a{  color:}
+          a:visited{} 
+
+      download link:
+      a{ href="file/image.png" download>the word<
+
+      let's say we're working in a second page and we want to go back to home page:
+      a tab :href"/">go back to home page< 
+
+working with Images: 
+
+  img src="Amalfi-Italy.webp" alt="Italy">
+    I will get a suggestions of pictures downloaded to choose from. 
+      
+    
  
