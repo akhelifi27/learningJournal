@@ -36,5 +36,26 @@ br for another line:
   use address tab
 
   Lists:
+   Type of Lists: 
+      ordered lists:
+      ol  
+      li- item 1
+      li- item 2
+      li- item 3
+      
+      
+      unordered lists:
+      ul 
+      li- item
+      
+      
+      description lists
+      
       li tab 
+      dt tab - the item
+      dd    the description of that item
+
+Hyper texts:
+    title  : A title of the Link
+    anker    a tab href: the link.     >the abbreviation<
  
