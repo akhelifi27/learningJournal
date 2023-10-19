@@ -116,3 +116,52 @@ br for another line:
 
 6- Adding tables: 
     
+     <table>
+            <tr>
+
+                <td>
+                    <time datetime="8:00">8am</time>
+                    <time  datetime="11:00">11am </time>
+                    
+                <td>eat lunch</td>
+
+                </td>
+
+
+
+            </tr>
+
+
+
+        </table>
+
+
+        for the header of the table:
+          th: inside the tr tabs
+
+          <caption> the one title of the table
+
+          we can add semantic tags for the table: theader/ tbody/tfooter 
+          doesn't change the look but it organizes things
+
+          td tab column span:"x">information< 
+
+7- Forms:
+      <h2>Contact me</h2>
+        
+            <form action="about.html" method="get">
+                <p>
+                    <label for="FirstName">First name</label>
+                    <input type="text" name="FirstName" id="FirstName" 
+                    placeholder="Maria" autocomplete="on" required>
+
+
+                </p>
+                <p>
+                    <label for="LastName">Last name</label>
+                    <input type="text" name="LastName" id="LastName" 
+                    placeholder="Josito" autocomplete="on" required>
+                add pattern tab for the input type (
+
+
+
