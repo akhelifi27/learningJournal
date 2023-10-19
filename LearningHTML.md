@@ -22,7 +22,7 @@ for the icon on the header:
 hr= horizontal rule = horizontal lines
 
 
-in the body paragraph:
+1- in the body paragraph:
 
 to emphasize a word: use em/  or strong
 br for another line: 
@@ -36,7 +36,7 @@ br for another line:
   use address tab
 
  
-  Lists:
+  2-Lists:
    Type of Lists: 
       ordered lists:
       ol  
@@ -56,7 +56,7 @@ br for another line:
       dt tab - the item
       dd    the description of that item
 
-working with links: 
+3- working with links: 
 
     title  : A title of the Link
     anker    a tab href: the link.     >the abbreviation or any sentence to click on<
@@ -72,10 +72,47 @@ working with links:
       let's say we're working in a second page and we want to go back to home page:
       a tab :href"/">go back to home page< 
 
-working with Images: 
+4- working with Images: 
 
   img src="Amalfi-Italy.webp" alt="Italy">
     I will get a suggestions of pictures downloaded to choose from. 
       
+    <img src="Amalfi-Italy.webp" alt="Italy"
+                title= "I want to visit italy" width="200" height="150">
+      working with the size: modify the height and the width of the pictures. 
+      addition to that:
+      if we want the picture to load when we get closer to the picture we add loading="lazy"
+      if not and its default parameter loading="eager"
+
+      title of the picture below the picture we use: figcaption tab
+
+      figure
+
+          put all the information about the picture in between 
+          
+
+      figure
+
+
+ 5- Semantic Tags: 
+ grouping of links:
+     nav tab:
+                links
+      nav tab
+
+      Header tab: for the headers in the page.
+      main tab for the informations/ divide parts of main by section tab
+      footer in the end (copyrights)
+
+
+      tip: 
+          aside:
+              details  
+                  <summary> guess <mark> where I'm going <mark> this summer <summary>
+                  p tab  oh to France!.
+              details 
+            aside
+
+
+6- Adding tables: 
     
- 
