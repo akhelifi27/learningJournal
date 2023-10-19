@@ -161,7 +161,7 @@ br for another line:
                     <label for="LastName">Last name</label>
                     <input type="text" name="LastName" id="LastName" 
                     placeholder="Josito" autocomplete="on" required>
-                add pattern tab for the input type (
+                add pattern tab for the input type ( digits for example) [0-9]
 
 
 
