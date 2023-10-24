@@ -1,1 +1,10 @@
+CSS :
 
+Selectors:
+ we can use semantics
+ classes we plug them in the html file and then refer to them in css 
+ ids but we can use classes so no need 
+* universal class 
+we can plug it in html if we want to apply it to the entire page
+we can use important and that will override other selectors and apply it to every paragraph or header
+but that's unnecessary. 
