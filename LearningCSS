@@ -1,4 +1,5 @@
 CSS :
+css validation service 
 
 Selectors:
  we can use semantics
@@ -8,3 +9,13 @@ Selectors:
 we can plug it in html if we want to apply it to the entire page
 we can use important and that will override other selectors and apply it to every paragraph or header
 but that's unnecessary. 
+
+colors:
+background color
+color for words
+rgb(values,values,values) red green blue max 255  hex code #000000  F biggest value
+hsl  saturation and lightness 
+website Coolors. 
+
+Units and sizes: 
+   
