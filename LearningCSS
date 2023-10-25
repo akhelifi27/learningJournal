@@ -18,4 +18,9 @@ hsl  saturation and lightness
 website Coolors. 
 
 Units and sizes: 
-   
+we can define pixels or width in header 
+then do 
+   px is pixels 
+font size= rem   root element 
+em will compare it to another header
+rem will be based on the root chosen by the browser 
