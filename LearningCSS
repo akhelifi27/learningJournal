@@ -24,3 +24,20 @@ then do
 font size= rem   root element 
 em will compare it to another header
 rem will be based on the root chosen by the browser 
+
+CSS box model: 
+1-content
+2-padding
+3-border
+4-margin 
+css reset: *{
+       margin=0
+       padding0
+box sizing:content box   means that what we apply to box will only be applied to the content. 
+}
+
+margin :
+top 
+right 
+bottom 
+left
