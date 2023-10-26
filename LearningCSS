@@ -63,5 +63,15 @@ text-decoration: underline/ overline tab
     */
 
 Styling links:
+a:active{
+    color: rgb(255, 0, 0);
+}
+a { 
+    /* same typography informations to style links*/
 
 
+}
+
+
+display: 
+display: inline-block ( to make sure that block elements do not overstack on each other and that they stay in line) 
