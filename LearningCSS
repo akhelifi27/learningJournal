@@ -48,3 +48,20 @@ CSS Typography:
 typography is the way text is written and arranged and presented 
 
 text-decoration: underline/ overline tab
+/* p {
+    text-transform: uppercase;/ lowercase/ capitalize;
+    text-align: center; right/ left
+    line height: 1.5em; spacing between lines
+    letter-spacing: 0.5em; spacing between the letters
+    word-spacing: 0.5em; spacing between the words
+    text-decoration: underline/ overline/ line-through/ none;
+    text-indent: 2em; indent the first line of a text
+    
+
+
+
+    */
+
+Styling links:
+
+
