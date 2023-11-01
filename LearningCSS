@@ -75,3 +75,6 @@ a {
 
 display: 
 display: inline-block ( to make sure that block elements do not overstack on each other and that they stay in line) 
+
+columns: 
+column count = 
